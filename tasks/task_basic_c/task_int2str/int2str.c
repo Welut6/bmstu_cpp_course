@@ -26,4 +26,4 @@ char* int2str(int number)
 		strt[j] = str[i-j-1];
 	} 
 	return strt;
-}
+} //тест
